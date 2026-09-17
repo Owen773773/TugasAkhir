@@ -1,0 +1,182 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{rahiman2013habit}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=3c3b188ca6c3ed51154f47a9d9400b04}{%
+           family={Abdul\bibnamedelima Rahiman},
+           familyi={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b0cc145b97d95efe32ba11bafa13ff15}{%
+           family={Varghese},
+           familyi={V\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=939a07ef95f263a77489acec648a3070}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Manoj},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{8771693c158869dc3553824ef54f8205}
+      \strng{fullhash}{8771693c158869dc3553824ef54f8205}
+      \strng{fullhashraw}{8771693c158869dc3553824ef54f8205}
+      \strng{bibnamehash}{8771693c158869dc3553824ef54f8205}
+      \strng{authorbibnamehash}{8771693c158869dc3553824ef54f8205}
+      \strng{authornamehash}{8771693c158869dc3553824ef54f8205}
+      \strng{authorfullhash}{8771693c158869dc3553824ef54f8205}
+      \strng{authorfullhashraw}{8771693c158869dc3553824ef54f8205}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Image Processing (IJIP)}
+      \field{number}{2}
+      \field{title}{HABIT: Handwritten Analysis Based Individualistic Traits Prediction}
+      \field{urlday}{2}
+      \field{urlmonth}{9}
+      \field{urlyear}{2026}
+      \field{volume}{7}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \field{pages}{209}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://www.cscjournals.org/manuscript/Journals/IJIP/Volume7/Issue2/IJIP-740.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.cscjournals.org/manuscript/Journals/IJIP/Volume7/Issue2/IJIP-740.pdf
+      \endverb
+    \endentry
+    \entry{gagiu2025detection}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=ee33a117644a50dcb5390405169fdbb2}{%
+           family={Gagiu},
+           familyi={G\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=068faf556075aad2cfedf8a4f6ddbe3e}{%
+           family={Sendrescu},
+           familyi={S\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{2a6993bdce80c6c77bdff8f47e1995aa}
+      \strng{fullhash}{2a6993bdce80c6c77bdff8f47e1995aa}
+      \strng{fullhashraw}{2a6993bdce80c6c77bdff8f47e1995aa}
+      \strng{bibnamehash}{2a6993bdce80c6c77bdff8f47e1995aa}
+      \strng{authorbibnamehash}{2a6993bdce80c6c77bdff8f47e1995aa}
+      \strng{authornamehash}{2a6993bdce80c6c77bdff8f47e1995aa}
+      \strng{authorfullhash}{2a6993bdce80c6c77bdff8f47e1995aa}
+      \strng{authorfullhashraw}{2a6993bdce80c6c77bdff8f47e1995aa}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Sciences}
+      \field{month}{2}
+      \field{number}{4}
+      \field{title}{Detection of Personality Traits Using Handwriting and Deep Learning}
+      \field{volume}{15}
+      \field{year}{2025}
+      \field{pages}{2154}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/app15042154
+      \endverb
+    \endentry
+    \entry{ghods2023personality}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=9e9fd9e6110985e14bfc748f9e90d988}{%
+           family={Ghods},
+           familyi={G\bibinitperiod},
+           given={Vahid},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{9e9fd9e6110985e14bfc748f9e90d988}
+      \strng{fullhash}{9e9fd9e6110985e14bfc748f9e90d988}
+      \strng{fullhashraw}{9e9fd9e6110985e14bfc748f9e90d988}
+      \strng{bibnamehash}{9e9fd9e6110985e14bfc748f9e90d988}
+      \strng{authorbibnamehash}{9e9fd9e6110985e14bfc748f9e90d988}
+      \strng{authornamehash}{9e9fd9e6110985e14bfc748f9e90d988}
+      \strng{authorfullhash}{9e9fd9e6110985e14bfc748f9e90d988}
+      \strng{authorfullhashraw}{9e9fd9e6110985e14bfc748f9e90d988}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Access}
+      \field{title}{Personality Recognition Based on Handwriting Types Using Fuzzy Inference}
+      \field{volume}{11}
+      \field{year}{2023}
+      \field{pages}{86456\bibrangedash 86469}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1109/ACCESS.2023.3303477
+      \endverb
+    \endentry
+    \entry{hemlata2018personality}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{hash=6f0d04b189273a9f9f68e8425251e16b}{%
+           family={Hemlata},
+           familyi={H\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=4f19c59680b5e4bb55aacd7e1b36fed7}{%
+           family={Manoj},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a545bd13ef1e9c1672bfb284155fc1ad}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{ac82f638d58e7c3bf2a9efba1243b451}
+      \strng{fullhash}{ac82f638d58e7c3bf2a9efba1243b451}
+      \strng{fullhashraw}{ac82f638d58e7c3bf2a9efba1243b451}
+      \strng{bibnamehash}{ac82f638d58e7c3bf2a9efba1243b451}
+      \strng{authorbibnamehash}{ac82f638d58e7c3bf2a9efba1243b451}
+      \strng{authornamehash}{ac82f638d58e7c3bf2a9efba1243b451}
+      \strng{authorfullhash}{ac82f638d58e7c3bf2a9efba1243b451}
+      \strng{authorfullhashraw}{ac82f638d58e7c3bf2a9efba1243b451}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Seventh International Conference on Advances in Computing Electronics and Communication (ACEC2018)}
+      \field{month}{8}
+      \field{title}{Personality Detection using Handwriting Analysis Review}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.15224/978-1-63248-157-3-33
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

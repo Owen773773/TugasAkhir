@@ -1,0 +1,17 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'document.blg'
+[135] biber-MSWIN64:342> INFO - === 
+[177] Biber.pm:421> INFO - Reading 'document.bcf'
+[321] Biber.pm:1002> INFO - Found 6 citekeys in bib section 0
+[338] Biber.pm:4487> INFO - Processing section 0
+[350] Biber.pm:4678> INFO - Looking for bibtex file 'referensi.bib' for section 0
+[406] bibtex.pm:1713> INFO - LaTeX decoding ...
+[419] bibtex.pm:1519> INFO - Found BibTeX data source 'referensi.bib'
+[498] UCollate.pm:68> INFO - Overriding locale 'id-ID' defaults 'variable = shifted' with 'variable = non-ignorable'
+[498] UCollate.pm:68> INFO - Overriding locale 'id-ID' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[498] Biber.pm:4307> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'id-ID'
+[498] Biber.pm:4313> INFO - No sort tailoring available for locale 'id-ID'
+[511] bbl.pm:676> INFO - Writing 'document.bbl' with encoding 'UTF-8'
+[518] bbl.pm:779> INFO - Output to document.bbl
+[518] Biber.pm:132> WARN - legacy month field 'jan' in entry 'Marano2021Graphology' is not an integer - this will probably not sort properly.
+[518] Biber.pm:134> INFO - WARNINGS: 1
